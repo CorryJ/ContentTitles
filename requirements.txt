@@ -1,14 +1,5 @@
-<<<<<<< HEAD
-altair
-=======
->>>>>>> 92b72fb4ecaab969963ecb2e0c25ca79f31b52c2
 pandas
 streamlit
 openai
-streamlit_js_eval
 
-<<<<<<< HEAD
 
-JC test
-=======
->>>>>>> 92b72fb4ecaab969963ecb2e0c25ca79f31b52c2
