@@ -36,12 +36,10 @@ with col3:
 
 
 st.markdown('<div style="text-align: center; font-size:36px;"><strong>Content Titles Generator by The SEO Works<strong></div>', unsafe_allow_html=True)
-st.markdown('<div style="text-align: center; font-size:22px;"></div>', unsafe_allow_html=True)
+st.markdown('<div style="text-align: center; font-size:22px;">Stop writers block and create magnetic headlines with our Content Title Generator.</div>', unsafe_allow_html=True)
 
 # Spacers for layout purposes
 st.write("#")
-# st.header("PersonaPlotter by The SEO Works")
-# st.markdown("***PersonaPlotter reveals audience personas with targeted keywords and their most pressing questions.***")
 
 st.markdown(
         """
@@ -56,7 +54,10 @@ st.markdown(
 
 
 with st.expander("How it works"):
-    st.write("Introducing The SEO Works Blog Title Generator. Select your parameters below and click go!")
+    st.write("Staring at a blank page? Or have you written an article but can't think of the perfect summary? \
+             What if there was a tool that could spark your creativity and generate dozens of catchy headlines in \
+             seconds? Introducing our Content Title Generator Tool. It's your secret weapon for crafting magnetic headlines \
+             that grab attention and drive results.")
 
 
 col1, col2 = st.columns(2)
